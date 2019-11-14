@@ -1,3 +1,4 @@
+# DEPRECATED
 # Mapserver WCS GDAL
 
 ## TL;DR
